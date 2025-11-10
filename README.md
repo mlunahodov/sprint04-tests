@@ -68,36 +68,9 @@ Antes de executar a aplicação, certifique-se de ter instalado:
 
 ---
 
-## ▶️ Como Executar o Projeto
 
-1. **Dar permissão de execução para os scripts usando o Git bash**:
-   ```bash
-   chmod +x scripts/*.sh
-   ```
 
-2. **Construir a imagem Docker e enviar para o Azure Container Registry (ACR):**
-   ```bash
-   ./scripts/build.sh
-   ```
-
-3. **Implantar no Azure Container Instances (ACI):**
-   ```bash
-   ./scripts/deploy.sh
-   ```
-
-📌 *A execução deve seguir exatamente essa ordem.*
-
----
-
-## 🗂️ Diagrama da Solução
-
-📌 O diagrama completo está disponível dentro do projeto:
-
-![Diagrama do Projeto](images/Diagrama.png)
-
----
-
-## 🎥 Demonstração no YouTube
+## 🎥 Link Youtube Testes automatizados
 
 📌 O vídeo de execução da aplicação está disponível em:
 
@@ -111,10 +84,10 @@ Após o deploy, a aplicação estará disponível no seguinte endereço:
 
 👉 [Link para acessar a aplicação Vroom] http://aci-app-vroom-rm557074.eastus.azurecontainer.io:8080/
 
----
 
-## 📌 Observações
+## 📌 Link de acesso ao AZURE BOARDS 
 
-- O projeto foi desenvolvido para rodar na **nuvem Azure** utilizando **ACR (Azure Container Registry)** e **ACI (Azure Container Instances)**.
-- O banco de dados utilizado é o **PostgreSQL em nuvem**, garantindo persistência dos dados.
-- Toda a aplicação é containerizada, seguindo boas práticas de **DevOps**.
+- https://dev.azure.com/RM555547/Challenge/_workitems/recentlyupdated/
+
+
+
