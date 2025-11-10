@@ -78,16 +78,16 @@ Antes de executar a aplicação, certifique-se de ter instalado:
 
 ---
 
+## 📌 Link de acesso ao AZURE BOARDS 
+
+- https://dev.azure.com/RM555547/Challenge/_workitems/recentlyupdated/
+
+
 ## 🌐 Acesso à Aplicação em Produção
 
 Após o deploy, a aplicação estará disponível no seguinte endereço:
 
 👉 [Link para acessar a aplicação Vroom] http://aci-app-vroom-rm557074.eastus.azurecontainer.io:8080/
-
-
-## 📌 Link de acesso ao AZURE BOARDS 
-
-- https://dev.azure.com/RM555547/Challenge/_workitems/recentlyupdated/
 
 
 
